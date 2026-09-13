@@ -4,7 +4,11 @@ A design-token compiler in one stdlib-only Python CLI — one JSON in, every fra
 
 `python 3.9+` · `stdlib only` · `wcag` · `deterministic` · `mit`
 
+## Screenshot
+
 ![Chromakey preview specimen](docs/preview.svg)
+
+*`docs/preview.svg` — the Atelier token set rendered as the `preview` command emits it: the full palette as labelled swatch cards (paper, ink, hairline, greens, indigos, and the warm accents with hex values), the WCAG verdict column, and the generated CSS custom properties below.*
 
 ## Why
 
