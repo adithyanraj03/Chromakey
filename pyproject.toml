@@ -1,0 +1,11 @@
+[project]
+name = "chromakey"
+version = "1.0.0"
+description = "A stdlib-only design-token compiler: one JSON in, every framework out, WCAG-graded."
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "adithyanraj03" }]
+keywords = ["design-tokens", "wcag", "css", "tailwind", "contrast"]
+
+[project.scripts]
+chromakey = "chromakey.cli:main"

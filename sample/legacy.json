@@ -1,0 +1,18 @@
+{
+  "color": {
+    "ink": "#252524",
+    "ink-2": "#676662",
+    "paper": "#DFDFDF",
+    "green": "#22AC80",
+    "indigo": "#5B51C7",
+    "orange": "#CA801B",
+    "pink": "#FEB2CB"
+  },
+  "space": {
+    "sm": "8px",
+    "md": "16px"
+  },
+  "radius": {
+    "card": "6px"
+  }
+}
