@@ -1,14 +1,18 @@
 # Chromakey
 
-A design-token compiler in one stdlib-only Python CLI — one JSON in, every framework out, WCAG-graded.
+<p align="center">
+  <img src="docs/preview.svg" alt="Chromakey preview specimen — the Atelier palette as labelled swatch cards with hex values, WCAG verdicts, and the generated CSS custom properties" width="900"/>
+</p>
 
-`python 3.9+` · `stdlib only` · `wcag` · `deterministic` · `mit`
+<p align="center">
+  <img alt="Python 3.9+" src="https://img.shields.io/badge/python-3.9%2B-blue.svg"/>
+  <img alt="Stdlib only" src="https://img.shields.io/badge/stdlib-only-green.svg"/>
+  <img alt="WCAG" src="https://img.shields.io/badge/wcag-AA%2FAAA-lightgrey.svg"/>
+  <img alt="Deterministic" src="https://img.shields.io/badge/deterministic-byte%20stable-blue.svg"/>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-yellow.svg"/>
+</p>
 
-## Screenshot
-
-![Chromakey preview specimen](docs/preview.svg)
-
-*`docs/preview.svg` — the Atelier token set rendered as the `preview` command emits it: the full palette as labelled swatch cards (paper, ink, hairline, greens, indigos, and the warm accents with hex values), the WCAG verdict column, and the generated CSS custom properties below.*
+**A design-token compiler in one stdlib-only Python CLI — one JSON in, every framework out, WCAG-graded.**
 
 ## Why
 
